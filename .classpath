@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.ajdt.core.ASPECTJRT_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/mimib/.p2/pool/plugins/org.aspectj.runtime_1.9.8.202203241553.jar" sourcepath="C:/Users/mimib/.p2/pool/plugins/org.aspectj.runtime.source_1.9.8.202203241553.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
